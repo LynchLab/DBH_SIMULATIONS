@@ -10,22 +10,21 @@ In order to test the null hypothesis we ask whether: Cov(Ge, mu) and Cov(Ge, pi)
 
 Finally let's turn to the drift barrier hypothesis itself. As stated previously, if the drift barrier hypothesis is correct, we should see a relationship between Ne and U. This directly implies a negative correlation between Ge and pi. The drift barrier hypothesis makes no direct prediction of a relationship between mu and pi; however, it is plausible that Ne might have some effect on effective genome size, which would create an indirect relationship between Ne and pi of similar magnitude and opposite sign. Alternatively it is possible that pi systematically underestimates Ne whenever pi is large. This would create a negative relationship between mu and pi, but would create no corresponding relationship between Ge and mu, since it would reflect an error in our estimation of Ne, and not a fundamental biological phenomenon.  
 
-As seen in figure S1a, the magnitude of the measurements error which would be necessary to achieve our results if the null hypothesis were true is profound. Additionally, this error would need to be highly correlated between measurements of base substitution rate and indel rate (figure S1b). While there is likely some correlation between error of these measurements, since they both are influenced by sequencing depth, our measurements of the mutation rate would have to be essentially uncorrelated with actual mutation rates (figure S2) to explain the observations, if the null hypothesis were true. 
+As seen in figure S1, the magnitude of the measurements error which would be necessary to achieve our results if the null hypothesis were true is profound. Additionally, this error would need to be highly correlated between measurements of base substitution rate and indel rate (figure S2). While there is likely some correlation between error of these measurements, since they both are influenced by sequencing depth, our measurements of the mutation rate would have to be essentially uncorrelated with actual mutation rates (figure S1) to explain the observations, if the null hypothesis were true. 
 
 Finally, one of the predictions of the drift barrier hypothesis is that effective genome size and silent site diversity should be correlated. This prediction is appealing in that it should be true independent of the mutation rate. Measurement errors in mutation rates, no matter how profound, could not effect this signal. We see this correlation in our data (Figure S3 and Table S1).
 
-Figure S1: The correlation between Ne and U under the null hypothesis, as a function of error.
+Figure S1: The correlation between Ne and U under the null hypothesis, as a function of correlation between real values of mu, and measurements of mu (% error).
 
 ![Figure S1](https://github.com/LynchLab/DBH_SIMULATIONS/blob/master/figureS1.jpg)
 
 Figure S2:
+
 ![Figure S2](https://github.com/LynchLab/DBH_SIMULATIONS/blob/master/figureS2.jpg)
 
-Figure S3: The correlation between actual and measured mutation rates, as a function of error.
-![Figure S3](https://github.com/LynchLab/DBH_SIMULATIONS/blob/master/figureS3.jpg)
-
 Figure S4: The correlation between pi and Ge
-![Figure S4](https://github.com/LynchLab/DBH_SIMULATIONS/blob/master/figureS4.jpg)
+
+![Figure S3](https://github.com/LynchLab/DBH_SIMULATIONS/blob/master/figureS3.jpg)
 
 Table 1:
 
