@@ -1,8 +1,15 @@
 A=400
 B=400
 t<-read.csv("Data.csv", sep=" ")
-jpeg(filename="figureSa.jpg",  width=A, height=B, units="px", pointsize=12)
+jpeg(filename="figureS1.jpg",  width=A, height=B, units="px", pointsize=12)
 plot(t$cor, t$err, ylab=expression(paste("Correlation between ", N[e], " and ", mu) ), xlab=expression(paste("Relative error in measurement of ", mu) ) )
 dev.off()
-jpeg(filename="figureSa.jpg",  width=A, height=B, units="px", pointsize=12)
-plot
+jpeg(filename="figureS2.jpg",  width=A, height=B, units="px", pointsize=12)
+plot(t$cor, t$err, ylab=expression(paste("Correlation between ", N[e], " and ", mu) ), xlab=expression(paste("Relative error in measurement of ", mu) ) )
+dev.off()
+jpeg(filename="figureS3.jpg",  width=A, height=B, units="px", pointsize=12)
+plot(t$cor, t$err, ylab=expression(paste("Correlation between ", N[e], " and ", mu) ), xlab=expression(paste("Relative error in measurement of ", mu) ) )
+dev.off()
+jpeg(filename="figureS4.jpg",  width=A, height=B, units="px", pointsize=12)
+plot(t$cor, t$err, ylab=expression(paste("Correlation between ", N[e], " and ", mu) ), xlab=expression(paste("Relative error in measurement of ", mu) ) )
+dev.off()
