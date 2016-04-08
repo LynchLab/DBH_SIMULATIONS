@@ -16,16 +16,16 @@ Finally, one of the predictions of the drift barrier hypothesis is that effectiv
 
 Figure S1: The correlation between Ne and U under the null hypothesis, as a function of error.
 
-![Figure S1a: profound confusion](https://github.com/LynchLab/DBH_SIMULATIONS/figS1.png)
+![Figure S1](https://github.com/LynchLab/DBH_SIMULATIONS/figureS1.jpeg)
 
 Figure S2:
-![Figure S1b: profound confusion](https://github.com/LynchLab/DBH_SIMULATIONS/figS2.png)
+![Figure S2](https://github.com/LynchLab/DBH_SIMULATIONS/figureS2.jpeg)
 
 Figure S3: The correlation between actual and measured mutation rates, as a function of error.
-![Figure S2: profound confusion](https://github.com/LynchLab/DBH_SIMULATIONS/figS3.png)
+![Figure S3](https://github.com/LynchLab/DBH_SIMULATIONS/figureS3.jpeg)
 
 Figure S4: The correlation between pi and Ge
-![Figure S3: independent correlation](https://github.com/LynchLab/DBH_SIMULATIONS/figS3.png)
+![Figure S4](https://github.com/LynchLab/DBH_SIMULATIONS/figureS3.jpeg)
 
 Table 1:
 
